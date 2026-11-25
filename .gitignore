@@ -1,0 +1,11 @@
+# Executables
+gridmind
+gridmind.exe
+*.o
+
+# Generated results
+outputs/*.csv
+
+# IDE
+.vscode/
+.idea/

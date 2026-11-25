@@ -1,0 +1,11 @@
+metric,baseline,gridmind_optimized,unit
+demand,19643.8,19643.8,MWh
+served_energy,17623.4,18267.6,MWh
+unserved_energy,2020.4,1376.14,MWh
+reliability,89.7148,92.9945,percent
+renewable_utilized,3973.14,3973.14,MWh
+renewable_curtailed,0,0,MWh
+grid_procurement,13650.2,14039.9,MWh
+battery_charged,0,571.869,MWh
+battery_discharged,0,826.422,MWh
+total_energy_cost,8.01214e+07,8.07364e+07,INR
